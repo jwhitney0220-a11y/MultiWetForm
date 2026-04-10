@@ -1,0 +1,9 @@
+{
+  "name": "Wetland Field App",
+  "short_name": "WetlandApp",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#eef2f5",
+  "theme_color": "#f5f7f9",
+  "icons": []
+}
